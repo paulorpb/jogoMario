@@ -11,11 +11,11 @@ Para auxiliar o desenvolvimento e visualização deste projeto, você precisará
     * Apple Safari
     * Google Chrome
     * Microsoft Edge
-    * Mozilla Firefox
+    * Mozilla Firefox_
 
 ## Autores
 
-* Paulo Bezerra
+* Paulo Renato Bezerra
 
 ## Licença
 
