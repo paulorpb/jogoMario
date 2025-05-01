@@ -1,6 +1,8 @@
 ## jogoMario
 
 Este repositório contém códigos de estudos das tecnologias css, html e javascript, desenvolvidos através da implementação de um jogo baseado no "Super Mário".
+TRATA-SE DE UM PROJETO ACADÊMICO.
+Link do vídeo base: https://www.youtube.com/watch?v=r9buAwVBDhA&t=1s
 
 # Pré-requisitos
 
